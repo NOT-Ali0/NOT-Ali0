@@ -3,7 +3,7 @@
 <h2>👋 Hi, I’m Ali</h2>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;lBuilding+clean+and+reliable+systems;Learning+every+day+%F0%9F%9A%80" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Building+clean+systems;Learning+every+day+%F0%9F%9A%80" 
   alt="Typing SVG" 
 />
 
