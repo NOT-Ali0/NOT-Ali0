@@ -25,7 +25,7 @@
 > _“Simple code scales better than clever code.”_
 
 <h3 align="left">Connect with me:</h3>
-💬 Discord: xxalixx0442
+[![Discord](https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/463319007932710914)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
